@@ -54,7 +54,4 @@ code .          # opens Visual Studio Code against the present directory
 ```
 # edit on 13/1/2024
 
-# edit by zhangqin
-hello world,i am zhangqin
-complete, try force push retry, aloha aloha alo edited in the new branch, 
-d
+
