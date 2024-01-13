@@ -54,3 +54,5 @@ code .          # opens Visual Studio Code against the present directory
 # edit by zhangqin
 
 hello world,i am zhangqin
+
+aloha
