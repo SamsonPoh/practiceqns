@@ -1,4 +1,4 @@
-# Practice for Activity 2b: Block Force Push sample
+# Practice for Activity 2c: Require Pull Request
 
 ---
 # Setup
