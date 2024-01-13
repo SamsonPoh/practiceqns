@@ -1,4 +1,4 @@
-# Practice for Activity 2b: Block Force Push
+# Practice for Activity 2b: Block Force Push sample
 
 ---
 # Setup
