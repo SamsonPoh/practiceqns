@@ -1,3 +1,6 @@
+# Practice for Activity 2b: Block Force Push
+
+---
 # Setup
 System Package Managers: apt-get, snap, yum, apt, homebrew, chocolately
 Python Package Managers: pip, conda
