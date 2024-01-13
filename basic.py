@@ -27,6 +27,8 @@ print(n1)
 example = 'Sagar'
 if example == 'sagar':
     print("Success!")
+if example = "samson": #add a line on 13 jan by zhangqin
+    print ("team lead for our team") #add a line on 13 jan by zhangqin
 else:
     print("Failed")
 
