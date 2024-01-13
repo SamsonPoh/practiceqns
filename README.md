@@ -56,4 +56,4 @@ code .          # opens Visual Studio Code against the present directory
 
 # edit by zhangqin
 hello world,i am zhangqin
-complete, try force push retry
+complete, try force push retry, aloha aloha
