@@ -29,6 +29,8 @@ if example == 'sagar':
     print("Success!")
 if example = "samson": #add a line on 13 jan by zhangqin
     print ("team lead for our team") #add a line on 13 jan by zhangqin
+if example = "zhangqin":
+    print ("joining a samson's team")
 else:
     print("Failed")
 
